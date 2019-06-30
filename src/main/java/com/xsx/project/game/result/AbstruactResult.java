@@ -1,8 +1,5 @@
 package com.xsx.project.game.result;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
-import java.util.List;
 
 /**
  * @description:
